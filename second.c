@@ -4,7 +4,8 @@ int main(){
 	
 	
 	
-	printf("Example of github code done in pc");
+	printf("My name is Eisty\n");
+	printf("I am a software engineer");
 	
 	
 	
