@@ -1,11 +1,16 @@
-#include<stdio.h> //header file
+#include<stdio.h>
 int main()
 {
-
-
-  printf("Hello Niloy");
-
-
-   
+	
+	
+	
+	printf("Hello world");
+	
+	
+	
+	
+	return 0;
+	
+	
 	
 }
